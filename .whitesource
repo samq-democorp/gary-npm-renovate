@@ -1,0 +1,10 @@
+{
+  "settingsInheritedFrom": "samq-democorp/whitesource-config@main",
+  "remediateSettings": {
+    "workflowRules": {
+      "enabled": false
+    },
+  "leastVulnerablePackageSettings": {
+    "enabled": false
+    }
+}
