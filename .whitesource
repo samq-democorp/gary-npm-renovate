@@ -3,7 +3,8 @@
   "remediateSettings": {
     "workflowRules": {
       "enabled": false
-    },
+    }
+  },
   "leastVulnerablePackageSettings": {
     "enabled": false
     }
